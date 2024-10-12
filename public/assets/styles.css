@@ -63,13 +63,14 @@ body {
   height: 35%;
 }
 
-.developer-info > h2 {
+.developer-info > h1 {
   margin: 8% 0% 3% 0%;
+  font-size: 21px;
 }
 
-.developer-info > h4 {
+.developer-info > h2 {
   font-family: "Inter Bold", "sans-serif";
-  font-size: small;
+  font-size: 12px;
   margin-bottom: 8%;
   color: var(--content-green);
 }
